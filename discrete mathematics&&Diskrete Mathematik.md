@@ -12,15 +12,30 @@ At the beginning, this is my discrete mathematics homework, and sometimes I will
 
 **1.命题**
 命题：可以判断真假的陈述句.
+
 真值：命题在逻辑或事实上的唯一真假性.
+
 真命题：命题在逻辑或事实上为真,那么该命题为真命题.
+
 假命题：命题在逻辑或事实上为假,那么该命题为假命题.
+
 简单命题：不可继续分成更小命题的命题,叫做简单命题.
+
 复合命题：多个简单命题通过联结词连接组合而成的命题，叫做复合命题.
 
 ### 联结词
-否定联结词：$\lont P$
-合取联结词：$P \land Q$
-析取联结词：$P \lor Q$
-蕴涵联结词：$P \to Q$
-等价联结词：$P \leftrightarrow Q$
+
+否定联结词：
+$\lont P$
+
+合取联结词：
+$P \land Q$
+
+析取联结词：
+$P \lor Q$
+
+蕴涵联结词：
+$P \to Q$
+
+等价联结词：
+$P \leftrightarrow Q$
