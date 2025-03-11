@@ -26,10 +26,10 @@ At the beginning, this is my discrete mathematics homework, and sometimes I will
 ### 联结词
 
 否定联结词：
-$ \neg P$
+$\neg P$
 
 合取联结词：
-$P \land Q$
+$P \land\neg Q$
 
 析取联结词：
 $P \lor Q$
