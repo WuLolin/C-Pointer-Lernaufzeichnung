@@ -26,7 +26,7 @@ At the beginning, this is my discrete mathematics homework, and sometimes I will
 ### 联结词
 
 否定联结词：
-$\lont P$
+$ \neg P$
 
 合取联结词：
 $P \land Q$
