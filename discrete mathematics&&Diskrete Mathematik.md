@@ -153,3 +153,79 @@ $p \lor q:Es ist nur dann 0, wenn p und q beide 0 sind, andernfalls 1.$
 $p \to q:Genau dann, wenn p 1 und q 0 ist, ist das Ganze 0 und der Rest ist 1$
 
 $p \leftrightarrow q:Wenn der Wahrheitswert von p und q gleich ist, ist der Wahrheitswert 1, andernfalls ist er 0$
+
+
+
+# Discrete Mathematics(English)
+---
+## Proposition
+
+### Basic Concepts
+
+**1.Proposition**
+- Proposition: A statement that can be judged as true or false.
+
+- Truth value: The unique truth or falsity of a proposition in terms of logic or fact.
+
+- True proposition: A proposition is true if it is logically or factually true.
+
+- False proposition: A proposition is false in logic or fact.
+
+- Simple proposition: A proposition that cannot be further divided into smaller propositions is called a simple proposition.
+
+- Compound proposition: A proposition composed of multiple simple propositions connected by conjunctions is called a compound proposition.
+
+**Connective words**
+
+- Negative conjunctions:
+$\neg P$
+
+- Conjunctive conjunctions:
+$P \land Q$
+
+- Disjunctive conjunctions:
+$P \lor Q$
+
+- Implication connectives:
+$P \to Q$
+
+- Equivalent conjunctions:
+$P \leftrightarrow Q$
+
+**Propositional formula**
+
+- Propositional formula:
+Connect the symbols representing the proposition with connectives according to certain grammatical rules.
+
+- Formula assignment:
+Assign a truth value to each atomic proposition in the formula.
+
+- True assignment:
+If the assignment makes the proposition formula 1, then this group of assignments is called a true assignment.
+
+- False assignment:
+If the assignment makes the proposition formula 0, then this group of assignments is called a false proposition.
+
+- Truth table:
+List the values ​​of the proposition formula under all assignments in a table, which is called the truth table of the proposition.
+
+- Tautology:
+The proposition formula is always 1 under any assignment, and the proposition formula is called a tautology.
+
+- Contradiction:
+The proposition formula is always 0 under any assignment, and the proposition formula is called a contradiction.
+
+- Satisfiable formula:
+As long as the proposition formula is not a contradiction, it is a satisfiable formula.
+
+### Basic rules, methods
+
+$\neg p:1 turns to 0, 0 turns to 1$
+
+$p \land q:1 only when p and q are both 1, otherwise 0$
+
+$p \lor q:0 only when p and q are both 0, otherwise 1$
+
+$p \to q:0 only when p is 1 and q is 0, otherwise 1$
+
+$p \leftrightarrow q:1 when p and q have the same truth value, otherwise 0$
