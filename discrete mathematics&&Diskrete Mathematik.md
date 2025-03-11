@@ -29,7 +29,7 @@ At the beginning, this is my discrete mathematics homework, and sometimes I will
 $\neg P$
 
 合取联结词：
-$P \land\neg Q$
+$P \land Q$
 
 析取联结词：
 $P \lor Q$
