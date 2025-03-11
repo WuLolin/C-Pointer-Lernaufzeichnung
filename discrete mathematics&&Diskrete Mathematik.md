@@ -4,7 +4,7 @@ Zu Beginn ist dies meine diskrete Mathematik-Hausaufgabe, und manchmal werde ich
 
 At the beginning, this is my discrete mathematics homework, and sometimes I will record some knowledge points about the course.
 
-# 离散数学
+# 离散数学(国语版)
 ---
 ## 命题
 
@@ -77,3 +77,79 @@ $p \lor q:有且仅当p,q均为0时为0,其余为1$
 $p \to q:有且仅当p为1,q为0时,整体为0,其余为1$
 
 $p \leftrightarrow q:p,q真值相同时,真值为1,其余为0$
+
+
+
+# Discrete Mathematics(German)
+---
+## Proposition
+
+### Grundlegende Konzepte
+
+**1.Proposition**
+- Proposition: Eine Aussage, die als wahr oder falsch beurteilt werden kann.
+
+- Wahrheitswert: Die eindeutige Wahrheit oder Falschheit einer Aussage in Bezug auf Logik oder Fakten.
+
+- Wahre Aussage: Eine Aussage ist wahr, wenn sie logisch oder faktisch wahr ist.
+
+- Falsche Aussage: Eine Aussage ist logisch oder tatsächlich falsch.
+
+- Einfacher Satz: Ein Satz, der nicht weiter in kleinere Sätze unterteilt werden kann, wird als einfacher Satz bezeichnet.
+
+- Zusammengesetzter Satz: Ein Satz, der aus mehreren einfachen Sätzen besteht, die durch Konjunktionen verbunden sind, wird als zusammengesetzter Satz bezeichnet.
+
+**Konnektive**
+
+- Negative Konjunktionen:
+$\neg p$
+
+- Konjunktive Konjunktionen:
+$p \land q$
+
+- Disjunktive Konnektoren:
+$p \lor q$
+
+- Implikationskonnektoren:
+$p \to q$
+
+- Äquivalente Konjunktionen:
+$p \leftrightarrow q$
+
+**Satzformel**
+
+- Satzformel：
+Die Symbole, die Sätze darstellen, werden nach bestimmten grammatikalischen Regeln durch Konnektoren miteinander verbunden.
+
+- Formelzuordnung:
+Weisen Sie jedem atomaren Satz in der Formel Wahrheitswerte zu.
+
+- Wahre Zuordnung:
+Wenn die Zuweisung die Propositionsformel gleich 1 macht, dann wird dieser Satz von Zuweisungen als wahre Zuweisung bezeichnet.
+
+- Falsche Zuordnung:
+Wenn die Zuweisung die Propositionsformel gleich 0 macht, dann wird dieser Satz von Zuweisungen als falsche Proposition bezeichnet.
+
+- Wahrheitstabelle:
+Der Wert der Propositionsformel unter allen Zuweisungen wird in einer Tabelle aufgeführt, die als Wahrheitstabelle der Proposition bezeichnet wird.
+
+- Tautologie:
+Eine Aussagenformel ist unter jeder beliebigen Zuweisung immer 1 und wird Tautologie genannt.
+
+- Widerspruch:
+Eine Aussagenformel ist unter jeder Zuweisung immer 0 und wird als Widerspruch bezeichnet.
+
+- Erfüllbare Formel:
+Solange die Aussagenformel keinen Widerspruch darstellt, ist sie erfüllbar.
+
+### Grundregeln, Methoden
+
+$\neg p:Aus 1 wird 0, aus 0 wird 1$
+
+$p \land q:Es ist nur 1, wenn p und q beide 1 sind, andernfalls 0.$
+
+$p \lor q:Es ist nur dann 0, wenn p und q beide 0 sind, andernfalls 1.$
+
+$p \to q:Genau dann, wenn p 1 und q 0 ist, ist das Ganze 0 und der Rest ist 1$
+
+$p \leftrightarrow q:Wenn der Wahrheitswert von p und q gleich ist, ist der Wahrheitswert 1, andernfalls ist er 0$
