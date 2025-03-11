@@ -67,5 +67,4 @@ $P \leftrightarrow Q$
 只要命题公式不是矛盾式,就是可满足式.
 
 ### 基本规则,方法
-$$p q \neq p p\land q p\lor q p\to q p\rightleftarrow q $$
-$$0 0     1     0        0       1            1$$
+$p  0  0  1  1$
